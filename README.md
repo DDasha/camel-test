@@ -28,4 +28,4 @@ To stop the example hit <kbd>ctrl</kbd>+<kbd>c</kbd>
 
 This example is documented at <http://camel.apache.org/spring-example.html>
 
-
+test
